@@ -1335,6 +1335,7 @@ dependencies = [
  "concentrated_liquidity",
  "factory",
  "soroban-sdk",
+ "soroban_amm_sdk",
  "token",
 ]
 
@@ -1914,6 +1915,7 @@ name = "token"
 version = "0.1.0"
 dependencies = [
  "soroban-sdk",
+ "soroban_amm_sdk",
 ]
 
 [[package]]
